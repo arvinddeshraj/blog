@@ -17,4 +17,5 @@ comment = false
 reaction = false
 +++
 
-<I should have updated this>
+I work at Eagle Eye Networks as an ML Engineer where I'm teaching computers how to see.
+I've also taken an interest in rendering engines and high performance computing.
