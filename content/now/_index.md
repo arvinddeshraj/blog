@@ -5,6 +5,8 @@ template = "prose.html"
 insert_anchor_links = "none"
 
 [extra]
+date = 2026-01-02
+updated = 2026-01-02
 lang = 'en'
 
 title = "Now"

@@ -1,0 +1,16 @@
+{% if section.extra.title or section.extra.subtitle or section.extra.date or section.extra.updated %}
+<div class="section-title">
+  {% if section.extra.title %}
+  <h1>{{ section.extra.title }}</h1>
+  {% endif %}
+  {% if section.extra.subtitle %}
+  <p>{{ section.extra.subtitle }}</p>
+  {% endif %}
+  {% if section.extra.date or section.extra.updated %}
+  <p>
+    {% if section.extra.date %}As of {{ section.extra.date }}{% endif %}
+    {% if section.extra.updated %}{% if section.extra.date %} · {% endif %}Updated {{ section.extra.updated }}{% endif %}
+  </p>
+  {% endif %}
+</div>
+{% endif %}
