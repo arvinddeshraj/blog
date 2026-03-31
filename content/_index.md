@@ -30,4 +30,4 @@ I'm an ML Engineer and computer programmer living in Bangalore, India.
 I build machine learning models and high-performance systems.
 
 When I'm not at my computer I'm usually spending time with loved ones,
-on a court (basketball, badminton or pickleball), out for a run, or scrolling Twitter a little too much.
+on a court (basketball, badminton or tennis), out for a run, or scrolling Twitter a little too much.
